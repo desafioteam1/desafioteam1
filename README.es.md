@@ -1,8 +1,12 @@
-<img src="assets/content.es/banner_sol7.png" title="banner sol7" alt="banner sol7">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_sol7_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner_sol7_ligth.png">
+  <img alt="banner sol7" src="./assets/banner_sol7_default.png">
+</picture>
 
 <br>
 
-Cambiar a:&nbsp; &nbsp; [![en](https://img.shields.io/badge/idioma-inglés-green.svg)](README.md)
+  Cambiar a:&nbsp; &nbsp; [![en](https://img.shields.io/badge/idioma-inglés-green.svg)](README.md)
 
 ---
 
@@ -11,13 +15,13 @@ Se trata de un proyecto de fin de curso, desarrollado por profesionales de: UX U
 
 <br>
 
-<div align="center">
-  <a href="#"><img src="assets/content.es/icon_UXUI_es.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" width="102" height="107"/></a>&nbsp; &nbsp;
-  <a href="#"><img src="assets/content.es/icon_data_es.png" title="Data Science" alt="Logo de Data Science" width="102" height="107"/></a>&nbsp; &nbsp;
-  <a href="#"><img src="assets/content.es/icon_marketing_es.png" title="Marketing digital" alt="Logo de Marketing digital" width="102" height="107"/></a>&nbsp; &nbsp;
-  <a href="#"><img src="assets/content.es/icon_webDev_es.png" title="Desarrollo web Full Stack" alt="Logo de Desarrollo web Full Stack" width="102" height="107"/></a>&nbsp; &nbsp;
-  <a href="#"><img src="assets/content.es/icon_devOps_es.png" title="Cloud & devOps" alt="Logo de Cloud & devOps" width="102" height="107"/></a>&nbsp; &nbsp;
-  <a href="#"><img src="assets/content.es/icon_ciber_es.png" title="Ciberseguridad" alt="Logo de Ciberseguridad" width="102" height="107"/></a>&nbsp; &nbsp;
+<div>
+  <a href="#áreas-profesionales-implicadas"><img src="assets/content.es/icon_UXUI_es.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" width="102" height="107"/></a>&nbsp; &nbsp;
+  <a href="#áreas-profesionales-implicadas"><img src="assets/content.es/icon_data_es.png" title="Data Science" alt="Logo de Data Science" width="102" height="107"/></a>&nbsp; &nbsp;
+  <a href="#áreas-profesionales-implicadas"><img src="assets/content.es/icon_marketing_es.png" title="Marketing digital" alt="Logo de Marketing digital" width="102" height="107"/></a>&nbsp; &nbsp;
+  <a href="#áreas-profesionales-implicadas"><img src="assets/content.es/icon_webDev_es.png" title="Desarrollo web Full Stack" alt="Logo de Desarrollo web Full Stack" width="102" height="107"/></a>&nbsp; &nbsp;
+  <a href="#áreas-profesionales-implicadas"><img src="assets/content.es/icon_devOps_es.png" title="Cloud & devOps" alt="Logo de Cloud & devOps" width="102" height="107"/></a>&nbsp; &nbsp;
+  <a href="#áreas-profesionales-implicadas"><img src="assets/content.es/icon_ciber_es.png" title="Ciberseguridad" alt="Logo de Ciberseguridad" width="102" height="107"/></a>&nbsp; &nbsp;
 </div>
 
 ## Objetivos
@@ -45,10 +49,7 @@ Se divide en 3 grandes fases
 
 <br>
 
-<!-- <div> -->
   <img src="assets/ui_plus.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" width="102" height="107"/>
-
-  <!-- <div> -->
 
   ### Responsabilidades
 
@@ -63,8 +64,6 @@ Se divide en 3 grandes fases
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!-- </div> -->
-<!-- </div> -->
 
 </details>
 
@@ -100,9 +99,13 @@ Se divide en 3 grandes fases
 
 ## Colaboradores
 
-<div>
 
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<img src="assets/img_annita.png" title="" alt="Diseñadora de producto UX/UI" width="102" height="107"/>
+
+<a href="your-linkedin-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+---
+
+  <a href="https://www.thebridge.tech/"><img src="assets/content.es/footer_readme.png"/></a>
