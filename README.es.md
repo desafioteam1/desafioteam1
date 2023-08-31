@@ -121,12 +121,8 @@ Se divide en 3 grandes fases
 
 <div class="container gap1">
 
-  <a href="https://www.linkedin.com/in/yvanargos/">
-    <img src="assets/content.es/mentor_UX-UI.png" alt="mertor Product design UX/UI" class="professional_card"/>
-  </a>
-
   <a href="www.linkedin.com/in/annita-nino">
-    <img src="assets/content.es/professional_UX-UI.png" alt="mertor Product design UX/UI" class="professional_card"/>
+    <img src="assets/content.es/professional_UX-UI.png" alt="Diseñadora de producto UX/UI" class="professional_card"/>
   </a>
 </div>
 </div>
@@ -174,15 +170,15 @@ Se divide en 3 grandes fases
 <div class="container gap1">
 
   <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/professional_card_romina.png" alt="mertor Product design UX/UI" class="professional_card"/>
+    <img src="assets/content.es/professional_card_romina.png" alt="Data scientist" class="professional_card"/>
   </a>
 
   <a href="https://www.linkedin.com/in/braugilabert/">
-    <img src="assets/content.es/professional_card_braulio.png" alt="mertor Product design UX/UI" class="professional_card"/>
+    <img src="assets/content.es/professional_card_braulio.png" alt="Data scientist" class="professional_card"/>
   </a>
 
   <a href="https://www.linkedin.com/in/judit-r-ab8734b0/">
-    <img src="assets/content.es/professional_card_judit.png" alt="mertor Product design UX/UI" class="professional_card"/>
+    <img src="assets/content.es/professional_card_judit.png" alt="Data scientist" class="professional_card"/>
   </a>
 </div>
 </div>
@@ -213,12 +209,12 @@ Se divide en 3 grandes fases
   ### Herramientas
 
   <div>
-    <img src="assets/content.es/" title="Waalaxy" alt="Logo de Waalaxy" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/content.es/" title="Mailchimp" alt="Logo de Mailchimp" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/content.es/" title="Hotjar" alt="Logo de Hotjar" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/content.es/" title="Google Analitics" alt="Logo de Google Analitics" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/content.es/" title="Meta" alt="Logo de Meta" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/content.es/" title="Google Ads" alt="Logo de Google Ads" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Waalaxy.png" title="Waalaxy" alt="Logo de Waalaxy" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Mailchimp.png" title="Mailchimp" alt="Logo de Mailchimp" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Hotjar.png" title="Hotjar" alt="Logo de Hotjar" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_GoogleAnalitics.png" title="Google Analitics" alt="Logo de Google Analitics" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Meta.png" title="Meta" alt="Logo de Meta" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_GoogleAds.png" title="Google Ads" alt="Logo de Google Ads" class="tool_icon"/>&nbsp; &nbsp;
   </div>
   </div>
 </div>
@@ -229,8 +225,8 @@ Se divide en 3 grandes fases
 
 <div class="container gap1">
 
-  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  <a href="https://www.linkedin.com/in/claragsz/">
+    <img src="assets/content.es/professional_card_Clara.png" alt="Especialista en marketing" class="professional_card"/>
   </a>
 </div>
 </div>
@@ -246,27 +242,28 @@ Se divide en 3 grandes fases
 
 <div class="container black">
 
-  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+  <img src="assets/icon_development_plus.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="area_icon"/>
 
   <div>
 
   ### Responsabilidades
 
-  - Desarrollo del Modelo de Negocio
-  -  Diseño de las campañas publicitarias
-  - Planificación analítica 
+  - Desarrollo del Frontend con React
+  - Desarrollo de Backend con Express
+en NodeJS
+  -  BBDD relacional en MySQL
   </div>
   <div>
 
   ### Herramientas
 
   <div>
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_React.png" title="React" alt="Logo de React" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Express.png" title="Express" alt="Logo de Express" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_NextUI.png" title="Next UI" alt="Logo de Next UI" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_MySql.png" title="MySql" alt="Logo de MySql" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_JavaScript.png" title="JavaScript" alt="Logo de JavaScript" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Node.png" title="Node.js" alt="Logo de Node.js" class="tool_icon"/>&nbsp; &nbsp;
   </div>
   </div>
 </div>
@@ -277,12 +274,12 @@ Se divide en 3 grandes fases
 
 <div class="container gap1">
 
-  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  <a href="https://www.linkedin.com/in/jorge-monterde-ortega/">
+    <img src="assets/content.es/professional_card_jorge.png" alt="Desarrollador full stack" class="professional_card"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  <a href="https://www.linkedin.com/in/mariangelicarodriguezperez/">
+    <img src="assets/content.es/professional_card_mariangelica.png" alt="Desarrolladora full stack" class="professional_card"/>
   </a>
 </div>
 </div>
@@ -442,5 +439,9 @@ Se divide en 3 grandes fases
   </a>
 </div>
 ---
+
+  <a href="https://www.linkedin.com/in/yvanargos/">
+    <img src="assets/content.es/mentor_UX-UI.png" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
 
   <a href="https://www.thebridge.tech/"><img src="assets/content.es/footer_readme.png"/></a>
