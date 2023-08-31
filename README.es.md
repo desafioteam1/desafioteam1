@@ -10,6 +10,7 @@
     gap: 2rem; 
     justify-content: center;
     align-items: center;
+    padding: 1rem;
   }
 
   .black {
@@ -86,7 +87,7 @@ Se divide en 3 grandes fases
 ## Áreas profesionales implicadas
 
 <details>
-  <summary>&nbsp; &nbsp;<img src="assets/content.es/ui.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="summary_Logo"/>&nbsp; &nbsp; Diseño de produto UX/UI</summary>
+  <summary>&nbsp; &nbsp;<img src="assets/content.es/summary_icon_uxui.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="summary_Logo"/>&nbsp; &nbsp; Diseño de produto UX/UI</summary>
 
 <br>
 
@@ -135,14 +136,14 @@ Se divide en 3 grandes fases
 ---
 
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/icon_dataScience.png" title="Data Science" alt="Data Science" class="summary_Logo"/>&nbsp; &nbsp; Data Science</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_dataScience.png" title="Data Science" alt="Data Science" class="summary_Logo"/>&nbsp; &nbsp; Data Science</summary>
 
 <br>
 
 
 <div class="container black">
 
-  <img src="assets/ui_plus.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="area_icon"/>
+  <img src="assets/icon_dataScience_plus.png" title="Data Science" alt="Logo Data Science" class="area_icon"/>
 
   <div>
 
@@ -157,11 +158,11 @@ Se divide en 3 grandes fases
   ### Herramientas
 
   <div>
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_python.png" title="Python" alt="Logo de Python" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_LangChain.png" title="LangChain" alt="Logo de LangChain" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_flask.png" title="Flask" alt="Logo de Flask" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_OpenAI.png" title="Open AI" alt="Logo de Open AI" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_ScikitLearn.png" title="ScikitLearn" alt="Logo de ScikitLearn" class="tool_icon"/>&nbsp; &nbsp;
   </div>
   </div>
 </div>
@@ -176,7 +177,7 @@ Se divide en 3 grandes fases
     <img src="assets/content.es/professional_card_romina.png" alt="mertor Product design UX/UI" class="professional_card"/>
   </a>
 
-  <a href="www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/braugilabert/">
     <img src="assets/content.es/professional_card_braulio.png" alt="mertor Product design UX/UI" class="professional_card"/>
   </a>
 
@@ -190,24 +191,245 @@ Se divide en 3 grandes fases
 
 ---
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/icon_marketing.png" title="Marketing digital" alt="Logo Marketing digital" class="summary_Logo"/>&nbsp; &nbsp; Marketing digital</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_marketing.png" title="Marketing digital" alt="Logo Marketing digital" class="summary_Logo"/>&nbsp; &nbsp; Marketing digital</summary>
+  
+<br>
+
+
+<div class="container black">
+
+  <img src="assets/icon_marketing_plus.png" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+
+  <div>
+
+  ### Responsabilidades
+
+  - Desarrollo del Modelo de Negocio
+  - Diseño de las campañas publicitarias
+  - Planificación analítica 
+  </div>
+  <div>
+
+  ### Herramientas
+
+  <div>
+    <img src="assets/content.es/" title="Waalaxy" alt="Logo de Waalaxy" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/content.es/" title="Mailchimp" alt="Logo de Mailchimp" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/content.es/" title="Hotjar" alt="Logo de Hotjar" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/content.es/" title="Google Analitics" alt="Logo de Google Analitics" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/content.es/" title="Meta" alt="Logo de Meta" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/content.es/" title="Google Ads" alt="Logo de Google Ads" class="tool_icon"/>&nbsp; &nbsp;
+  </div>
+  </div>
+</div>
+  
+<div class="center">
+
+  ### Profesionales
+
+<div class="container gap1">
+
+  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
+    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
+</div>
+</div>
 </details>
 
 ---
 
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/icon_development.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="summary_Logo"/>&nbsp; &nbsp; Desarrollo web Full Stack</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_development.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="summary_Logo"/>&nbsp; &nbsp; Desarrollo web Full Stack</summary>
+  
+<br>
+
+
+<div class="container black">
+
+  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+
+  <div>
+
+  ### Responsabilidades
+
+  - Desarrollo del Modelo de Negocio
+  -  Diseño de las campañas publicitarias
+  - Planificación analítica 
+  </div>
+  <div>
+
+  ### Herramientas
+
+  <div>
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+  </div>
+  </div>
+</div>
+  
+<div class="center">
+
+  ### Profesionales
+
+<div class="container gap1">
+
+  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
+    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
+    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
+</div>
+</div>
 </details>
 
 ---
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/icon_devOps.png" title="Cloud & devOps" alt="Logo Cloud & devOps" class="summary_Logo"/>&nbsp; &nbsp; Cloud & devOps</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_devOps.png" title="Cloud & devOps" alt="Logo Cloud & devOps" class="summary_Logo"/>&nbsp; &nbsp; Cloud & devOps</summary>
+    
+<br>
+
+
+<div class="container black">
+
+  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+
+  <div>
+
+  ### Responsabilidades
+
+  - Desarrollo del Modelo de Negocio
+  -  Diseño de las campañas publicitarias
+  - Planificación analítica 
+  </div>
+  <div>
+
+  ### Herramientas
+
+  <div>
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+  </div>
+  </div>
+</div>
+  
+<div class="center">
+
+  ### Profesionales
+
+<div class="container gap1">
+
+  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
+    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
+</div>
+</div>
 </details>
 
 ---
 
 <details>
-  <summary>&nbsp; &nbsp;<img src="assets/content.es/icon_cybersecurity.png" title="Ciberseguridad" alt="Logo Ciberseguridad" class="summary_Logo"/> &nbsp; &nbsp; Ciberseguridad</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_development.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="summary_Logo"/>&nbsp; &nbsp; Desarrollo web Full Stack</summary>
+  
+<br>
+
+
+<div class="container black">
+
+  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+
+  <div>
+
+  ### Responsabilidades
+
+  - Desarrollo del Modelo de Negocio
+  -  Diseño de las campañas publicitarias
+  - Planificación analítica 
+  </div>
+  <div>
+
+  ### Herramientas
+
+  <div>
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+  </div>
+  </div>
+</div>
+  
+<div class="center">
+
+  ### Profesionales
+
+<div class="container gap1">
+
+  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
+    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
+</div>
+</div>
+</details>
+
+---
+
+<details>
+  <summary>&nbsp; &nbsp;<img src="assets/content.es/summary_icon_cybersecurity.png" title="Ciberseguridad" alt="Logo Ciberseguridad" class="summary_Logo"/> &nbsp; &nbsp; Ciberseguridad</summary>
+    
+<br>
+
+
+<div class="container black">
+
+  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+
+  <div>
+
+  ### Responsabilidades
+
+  - Desarrollo del Modelo de Negocio
+  -  Diseño de las campañas publicitarias
+  - Planificación analítica 
+  </div>
+  <div>
+
+  ### Herramientas
+
+  <div>
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+  </div>
+  </div>
+</div>
+  
+<div class="center">
+
+  ### Profesionales
+
+<div class="container gap1">
+
+  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
+    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  </a>
+</div>
+</div>
 </details>
 
 <br>
