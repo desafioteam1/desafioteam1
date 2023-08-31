@@ -294,27 +294,28 @@ en NodeJS
 
 <div class="container black">
 
-  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+  <img src="assets/icon_devOps_plus.png" title="Cloud & devOps" alt="Logo Cloud & devOps" class="area_icon"/>
 
   <div>
 
   ### Responsabilidades
 
-  - Desarrollo del Modelo de Negocio
-  -  Diseño de las campañas publicitarias
-  - Planificación analítica 
+  - Diseño de arquitectura para automatización sistemas
+  - Sincronización automática de versiones
+  - Despliegue de sistemas y aplicación 
   </div>
   <div>
 
   ### Herramientas
 
   <div>
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_amazonRDS.png" title="amazon RDS" alt="Logo de amazon RDS" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_EC2.png" title="EC2" alt="Logo de EC2" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_GitHubActions.png" title="GitHub Actions" alt="Logo de GitHub Actions" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Docker.png" title="Docker" alt="Logo de Docker" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_ECR.png" title="ECR" alt="Logo de ECR" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_AWS-IAM.png" title="AWS IAM" alt="Logo de AWS IAM" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_AWS-AppRunner.png" title="AWS App Runner" alt="Logo de AWS App Runner" class="tool_icon"/>&nbsp; &nbsp;
   </div>
   </div>
 </div>
@@ -325,57 +326,8 @@ en NodeJS
 
 <div class="container gap1">
 
-  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
-  </a>
-</div>
-</div>
-</details>
-
----
-
-<details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_development.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="summary_Logo"/>&nbsp; &nbsp; Desarrollo web Full Stack</summary>
-  
-<br>
-
-
-<div class="container black">
-
-  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
-
-  <div>
-
-  ### Responsabilidades
-
-  - Desarrollo del Modelo de Negocio
-  -  Diseño de las campañas publicitarias
-  - Planificación analítica 
-  </div>
-  <div>
-
-  ### Herramientas
-
-  <div>
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-  </div>
-  </div>
-</div>
-  
-<div class="center">
-
-  ### Profesionales
-
-<div class="container gap1">
-
-  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  <a href="https://www.linkedin.com/in/albertojimenezbaez/">
+    <img src="assets/content.es/professional_card_alberto.png" alt="Especialista en CLOUD & DEVOPS" class="professional_card"/>
   </a>
 </div>
 </div>
@@ -434,14 +386,11 @@ en NodeJS
 ## Colaboradores
 
 <div>
-  <a href="https://www.linkedin.com/in/annita-nino/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
----
 
   <a href="https://www.linkedin.com/in/yvanargos/">
     <img src="assets/content.es/mentor_UX-UI.png" alt="mertor Product design UX/UI" class="professional_card"/>
   </a>
+</div>
+---
 
   <a href="https://www.thebridge.tech/"><img src="assets/content.es/footer_readme.png"/></a>
