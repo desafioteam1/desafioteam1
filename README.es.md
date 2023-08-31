@@ -87,14 +87,14 @@ Se divide en 3 grandes fases
 ## Áreas profesionales implicadas
 
 <details>
-  <summary>&nbsp; &nbsp;<img src="assets/content.es/summary_icon_uxui.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="summary_Logo"/>&nbsp; &nbsp; Diseño de produto UX/UI</summary>
+  <summary>&nbsp; &nbsp;<img src="assets/summary_icon_uxui.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="summary_Logo"/>&nbsp; &nbsp; Diseño de produto UX/UI</summary>
 
 <br>
 
 
 <div class="container black">
 
-  <img src="assets/ui_plus.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="area_icon"/>
+  <img src="assets/icon_uxui_plus.png" title="Diseño de produto UX/UI" alt="Logo Diseño de produto UX/UI" class="area_icon"/>
 
   <div>
 
@@ -132,7 +132,7 @@ Se divide en 3 grandes fases
 ---
 
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_dataScience.png" title="Data Science" alt="Data Science" class="summary_Logo"/>&nbsp; &nbsp; Data Science</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/summary_icon_dataScience.png" title="Data Science" alt="Data Science" class="summary_Logo"/>&nbsp; &nbsp; Data Science</summary>
 
 <br>
 
@@ -187,7 +187,7 @@ Se divide en 3 grandes fases
 
 ---
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_marketing.png" title="Marketing digital" alt="Logo Marketing digital" class="summary_Logo"/>&nbsp; &nbsp; Marketing digital</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/summary_icon_marketing.png" title="Marketing digital" alt="Logo Marketing digital" class="summary_Logo"/>&nbsp; &nbsp; Marketing digital</summary>
   
 <br>
 
@@ -235,7 +235,7 @@ Se divide en 3 grandes fases
 ---
 
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_development.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="summary_Logo"/>&nbsp; &nbsp; Desarrollo web Full Stack</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/summary_icon_development.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" class="summary_Logo"/>&nbsp; &nbsp; Desarrollo web Full Stack</summary>
   
 <br>
 
@@ -287,7 +287,7 @@ en NodeJS
 
 ---
 <details>
-  <summary>&nbsp; &nbsp; <img src="assets/content.es/summary_icon_devOps.png" title="Cloud & devOps" alt="Logo Cloud & devOps" class="summary_Logo"/>&nbsp; &nbsp; Cloud & devOps</summary>
+  <summary>&nbsp; &nbsp; <img src="assets/summary_icon_devOps.png" title="Cloud & devOps" alt="Logo Cloud & devOps" class="summary_Logo"/>&nbsp; &nbsp; Cloud & devOps</summary>
     
 <br>
 
@@ -336,14 +336,14 @@ en NodeJS
 ---
 
 <details>
-  <summary>&nbsp; &nbsp;<img src="assets/content.es/summary_icon_cybersecurity.png" title="Ciberseguridad" alt="Logo Ciberseguridad" class="summary_Logo"/> &nbsp; &nbsp; Ciberseguridad</summary>
+  <summary>&nbsp; &nbsp;<img src="assets/summary_icon_cybersecurity.png" title="Ciberseguridad" alt="Logo Ciberseguridad" class="summary_Logo"/> &nbsp; &nbsp; Ciberseguridad</summary>
     
 <br>
 
 
 <div class="container black">
 
-  <img src="assets/" title="Marketing digital" alt="Logo Marketing digital" class="area_icon"/>
+  <img src="assets/icon_cybersecurity_plus.png" title="Ciberseguridad" alt="Logo Ciberseguridad" class="area_icon"/>
 
   <div>
 
@@ -358,12 +358,12 @@ en NodeJS
   ### Herramientas
 
   <div>
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Figma" alt="Logo de Figma" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
-    <img src="assets/" title="Notion" alt="Logo de Notion" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Nessus.png" title="Nessus" alt="Logo de Nessus" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Snort.png" title="Snort" alt="Logo de Snort" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Sqlmap.png" title="Sqlmap" alt="Logo de Sqlmap" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Mikro.png" title="Mikro" alt="Logo de Mikro" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Metasploit.png" title="Metasploit" alt="Logo de Metasploit" class="tool_icon"/>&nbsp; &nbsp;
+    <img src="assets/card_tool_Wireshark.png" title="Wireshark" alt="Logo de Wireshark" class="tool_icon"/>&nbsp; &nbsp;
   </div>
   </div>
 </div>
@@ -374,8 +374,20 @@ en NodeJS
 
 <div class="container gap1">
 
-  <a href="https://www.linkedin.com/in/gabriela-romina-lupas">
-    <img src="assets/content.es/" alt="mertor Product design UX/UI" class="professional_card"/>
+  <a href="https://www.linkedin.com/in/adri%C3%A1n-pascual-abad-95a63625b">
+    <img src="assets/content.es/professional_card_adrian.png" alt="Especialista en ciberseguridad" class="professional_card"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pabloprimo/">
+    <img src="assets/content.es/professional_card_pablo.png" alt="Especialista en ciberseguridad" class="professional_card"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/claudioharaba/">
+    <img src="assets/content.es/professional_card_claudio.png" alt="Especialista en ciberseguridad" class="professional_card"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/christiandelopez/">
+    <img src="assets/content.es/professional_card_christian.png" alt="Especialista en ciberseguridad" class="professional_card"/>
   </a>
 </div>
 </div>
@@ -384,6 +396,8 @@ en NodeJS
 <br>
 
 ## Colaboradores
+
+### Mentores
 
 <div>
 
