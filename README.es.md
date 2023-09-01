@@ -1,60 +1,3 @@
-<style>
-  .summary_Logo {
-    width: 32px;
-    height: 32px;
-  }
-
-  .container {
-    display: flex; 
-    flex-wrap: wrap; 
-    gap: 2rem; 
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-  }
-
-  .container_left {
-    display: flex; 
-    flex-wrap: wrap; 
-    gap: 2rem; 
-    padding: 1rem;
-  }
-
-  .black {
-    background-color: black;
-  }
-
-  .center {
-    justify: center;
-  }
-
-  .left {
-    justify: left;
-  }
-
-  .gap1 {
-    gap: 1rem;
-  }
-
-  .professional_card {
-    width: 120px;
-  }
-
-  .collaborator_card {
-    width: 89px;
-  }
-
-  .area_icon {
-    height: 107px;
-    width: 102px;
-  }
-
-  .tool_icon {
-    height: 64px;
-  }
-  
-</style>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_sol7_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner_sol7_ligth.png">
@@ -68,7 +11,7 @@ Cambiar a:&nbsp; &nbsp; [![en](https://img.shields.io/badge/idioma-inglés-green
 ---
 
 # Desafío de tripulaciones
-Se trata de un proyecto de fin de curso, desarrollado por profesionales de: UX UI Digital Product Design, Ciberseguridad, Data Science, Desarrollo Web full stack, marketing digital y Cloud/devOps; con la finalidad solucionar una problemática planteada en un brief (informe) y poner en valor la expertise de cada área.
+Se trata de un proyecto de fin de curso, desarrollado por profesionales de: **Diseño de producto UX UI**, **ciberseguridad**, **data science**, **desarrollo web full stack**, **marketing digital** y **cloud/devOps**; con la finalidad solucionar una problemática planteada en un brief (informe) y poner en valor la expertise de cada área.
 
 <br>
 
@@ -82,8 +25,8 @@ Se trata de un proyecto de fin de curso, desarrollado por profesionales de: UX U
 </div>
 
 ## Objetivos
-- Resolución de problemas complejos.
-- Trabajar con metodologías ágiles, en una situación de trabajo realista con equipos multidisciplinares
+- **Resolución de problemas** complejos.
+- Trabajar con **metodologías ágiles**, en una situación de trabajo realista con equipos multidisciplinares
 - Desarrollo de un proyecto bajo la presión de deadlines (fechas de entrega) y la presentación del proyecto ante un jurado
 
 <br>
@@ -91,11 +34,11 @@ Se trata de un proyecto de fin de curso, desarrollado por profesionales de: UX U
 ## Proceso
 Se divide en 3 grandes fases
   1. Investigación: <br>
-    Dirigida por los profesionales de Diseño de producto UX/UI, aplicando metodologías como Design Thinking y scrum.
+    Dirigida por los profesionales de Diseño de producto UX/UI, aplicando metodologías como **Design Thinking** y **scrum**.
   2. Producción: <br>
-    Dónde los especialistas de Ciberseguridad, Data Science y Desarrollo Web full stack, trabajan en conjunto para desarrollar, securizar y manejar los datos de la aplicación hasta llevarla a producción.
+    Dónde los especialistas de ciberseguridad, data science y desarrollo web full stack, trabajan en conjunto para **desarrollar**, **securizar** y **manejar los datos** de la aplicación hasta llevarla a producción.
   3. Campañas: <br> 
-    Profesionales de marketing plantean las campañas publicitarias para conseguir que el producto final sea viable y comercial.
+    Profesionales de marketing plantean las **campañas publicitarias** para conseguir que el producto final sea **viable** y **comercial**.
 
 <br>
 
@@ -567,3 +510,60 @@ en NodeJS
 ---
 
   <a href="https://www.thebridge.tech/"><img src="assets/content.es/footer_readme.png"/></a>
+
+<style>
+  .summary_Logo {
+    width: 32px;
+    height: 32px;
+  }
+
+  .container {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 2rem; 
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+  }
+
+  .container_left {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 2rem; 
+    padding: 1rem;
+  }
+
+  .black {
+    background-color: black;
+  }
+
+  .center {
+    justify: center;
+  }
+
+  .left {
+    justify: left;
+  }
+
+  .gap1 {
+    gap: 1rem;
+  }
+
+  .professional_card {
+    width: 120px;
+  }
+
+  .collaborator_card {
+    width: 89px;
+  }
+
+  .area_icon {
+    height: 107px;
+    width: 102px;
+  }
+
+  .tool_icon {
+    height: 64px;
+  }
+  
+</style>
