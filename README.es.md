@@ -50,7 +50,7 @@ Se divide en 3 grandes fases
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:center; padding:16px; background-color:black">
+<div style="display:flex; flex-wrap:wrap; gap:32px; justify-content:center; align-items:center; padding:16px; background-color:black">
 
   <img src="assets/icon_uxui_plus.png" title="Diseño de producto UX/UI" alt="Logo Diseño de producto UX/UI" style="height: 107px; width: 102px;"/>
 
@@ -95,7 +95,7 @@ Se divide en 3 grandes fases
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:center; padding:16px; background-color:black">
+<div style="display:flex; flex-wrap:wrap; gap:232px; justify-content:center; align-items:center; padding:16px; background-color:black">
 
   <img src="assets/icon_dataScience_plus.png" title="Data Science" alt="Logo Data Science" style="height: 107px; width: 102px;"/>
 
@@ -150,7 +150,7 @@ Se divide en 3 grandes fases
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:center; padding:16px; background-color:black">
+<div style="display:flex; flex-wrap:wrap; gap:32px; justify-content:center; align-items:center; padding:16px; background-color:black">
 
   <img src="assets/icon_marketing_plus.png" title="Marketing digital" alt="Logo Marketing digital" style="height: 107px; width: 102px;"/>
 
@@ -198,7 +198,7 @@ Se divide en 3 grandes fases
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:center; padding:16px; background-color:black">
+<div style="display:flex; flex-wrap:wrap; gap:32px; justify-content:center; align-items:center; padding:16px; background-color:black">
 
   <img src="assets/icon_development_plus.png" title="Desarrollo web Full Stack" alt="Logo Desarrollo web Full Stack" style="height: 107px; width: 102px;"/>
 
@@ -250,7 +250,7 @@ en NodeJS
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:center; padding:16px; background-color:black">
+<div style="display:flex; flex-wrap:wrap; gap:32px; justify-content:center; align-items:center; padding:16px; background-color:black">
 
   <img src="assets/icon_devOps_plus.png" title="Cloud & devOps" alt="Logo Cloud & devOps" style="height: 107px; width: 102px;"/>
 
@@ -299,7 +299,7 @@ en NodeJS
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:center; padding:16px; background-color:black">
+<div style="display:flex; flex-wrap:wrap; gap:32px; justify-content:center; align-items:center; padding:16px; background-color:black">
 
   <img src="assets/icon_cybersecurity_plus.png" title="Ciberseguridad" alt="Logo Ciberseguridad" style="height: 107px; width: 102px;"/>
 
@@ -355,7 +355,7 @@ en NodeJS
 
 ## Herramientas de trabajo y comunicación
 
-  <div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px;">
+  <div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px;">
   <img src="assets/tool_job_communication_slack.png" title="Slack" alt="Logo Slack" style="height: 107px; width: 102px;"/>
 
   <div>
@@ -369,7 +369,7 @@ en NodeJS
   </div>
   </div>
 
-  <div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px; background-color:black;">
+  <div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px; background-color:black;">
   <img src="assets/tool_job_communication_discord.png" title="Discord" alt="Logo Discord" style="height: 107px; width: 102px;"/>
 
   <div>
@@ -382,7 +382,7 @@ en NodeJS
   </div>
   </div>
 
-  <div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px;">
+  <div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px;">
   <img src="assets/tool_job_communication_trello.png" title="Trello" alt="Logo Trello" style="height: 107px; width: 102px;"/>
 
   <div>
@@ -395,7 +395,7 @@ en NodeJS
   </div>
   </div>
 
-  <div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px; background-color:black;">
+  <div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px; background-color:black;">
   <img src="assets/tool_job_communication_google-meet.png" title="Google meet" alt="Logo Google meet" style="height: 107px; width: 102px;"/>
 
   <div>
@@ -408,7 +408,7 @@ en NodeJS
   </div>
 
   
-  <div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px;">
+  <div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px;">
   <img src="assets/tool_job_communication_github.png" title="Github" alt="Logo Github" style="height: 107px; width: 102px;"/>
 
   <div>
@@ -425,7 +425,7 @@ en NodeJS
 
 ### Mentores
 
-<div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px;">
+<div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px;">
 
   <a href="https://github.com/Guille-Rubio">
     <img src="assets/mentor_scrumMaster.png" alt="mentor & Scrum master" title="mentor & Scrum master | Guillermo Rubio" style="width:120px;"/>
@@ -440,7 +440,7 @@ en NodeJS
 
 <br>
 
-<div style="display:flex; flex-wrap: wrap; gap: 2rem; padding: 16px;">
+<div style="display:flex; flex-wrap: wrap; gap: 32px; padding: 16px;">
 
   <a href="https://www.linkedin.com/in/yvanargos/">
     <img src="assets/mentor_UX-UI.png" alt="mentor Product design UX/UI"  title="mentor Product design UX/UI | Yvan Argos" style="width:120px;"/>
